@@ -7,13 +7,32 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:snowy_plains": "2026-09-24 02:53:48 +0000"
+      "minecraft:snowy_plains": "2026-09-24 02:53:48 +0000",
+      "minecraft:snowy_taiga": "2026-09-24 23:48:12 +0000"
     },
     "done": false
   },
   "touhou_little_maid:give_smart_slab": {
     "criteria": {
       "tick": "2026-09-24 03:18:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2026-09-24 23:47:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2026-09-24 23:47:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2026-09-24 23:47:23 +0000"
     },
     "done": true
   },
